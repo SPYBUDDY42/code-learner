@@ -1,0 +1,8 @@
+{
+  "name": "CodeBreaker: Cyber Quest",
+  "description": "A high-octane, dark-mode coding learning platform where missions are hacks and progress is power. Level up from Rookie to Master across Python, Rust, JavaScript, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
